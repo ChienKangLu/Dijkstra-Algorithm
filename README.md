@@ -1,6 +1,10 @@
 # Dijkstra-Algorithm
 Dijkstra-Algorithm is a classical shortest path algorithm.
 
+## Develop tools and techniques
++ Java
++ NetBeans
+
 ## Step
 1. Initial all distance to infinity
 2. Set start point whose distance between start point to 0
